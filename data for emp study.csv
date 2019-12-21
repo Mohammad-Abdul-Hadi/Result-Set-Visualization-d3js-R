@@ -1,0 +1,91 @@
+Model,Feature,Accuracy,F1-score
+Naive Bayes,Count Vector-(i),0.838,0.838252476
+Naive Bayes,WordLevel TF-IDF-(ii),0.8452,0.845350771
+Naive Bayes,N-Gram Vectors TF-IDF-(iii),0.8376,0.837633281
+Naive Bayes,CharLevel Vectors TF-IDF-(iv),0.812,0.812240539
+Naive Bayes,(i)+(ii),0.84,0.840234011
+Naive Bayes,(i)+(iii),0.8432,0.843419558
+Naive Bayes,(i)+(iv),0.8388,0.838983084
+Naive Bayes,(ii)+(iii),0.87,0.870002934
+Naive Bayes,(ii)+(iv),0.8476,0.847685077
+Naive Bayes,(iii)+(iv),0.852,0.851990905
+Naive Bayes,(i)+(ii)+(iii),0.8464,0.846570187
+Naive Bayes,(i)+(ii)+(iv),0.84,0.840186217
+Naive Bayes,(i)+(iii)+(iv),0.8468,0.846957277
+Naive Bayes,(ii)+(iii)+(iv),0.8468,0.846957277
+Naive Bayes,(i)+(ii)+(iii)+(iv),0.8488,0.84895122
+Linear Classifier,Count Vector-(i),0.8484,0.869591987
+Linear Classifier,WordLevel TF-IDF-(ii),0.86,0.87642052
+Linear Classifier,N-Gram Vectors TF-IDF-(iii),0.8344,0.836427161
+Linear Classifier,CharLevel Vectors TF-IDF-(iv),0.8368,0.841215379
+Linear Classifier,(i)+(ii),0.87,0.869992448
+Linear Classifier,(i)+(iii),0.874,0.873991229
+Linear Classifier,(i)+(iv),0.8692,0.869193406
+Linear Classifier,(ii)+(iii),0.8852,0.885216265
+Linear Classifier,(ii)+(iv),0.8764,0.876407063
+Linear Classifier,(iii)+(iv),0.8788,0.878806926
+Linear Classifier,(i)+(ii)+(iii),0.8732,0.873191174
+Linear Classifier,(i)+(ii)+(iv),0.8696,0.86959399
+Linear Classifier,(i)+(iii)+(iv),0.8752,0.875194248
+Linear Classifier,(ii)+(iii)+(iv),0.8752,0.875194248
+Linear Classifier,(i)+(ii)+(iii)+(iv),0.8744,0.874393166
+Support Vector Machine,Count Vector-(i),0.8488,0.848823238
+Support Vector Machine,WordLevel TF-IDF-(ii),0.88,0.880012909
+Support Vector Machine,N-Gram Vectors TF-IDF-(iii),0.88,0.880012909
+Support Vector Machine,CharLevel Vectors TF-IDF-(iv),0.8512,0.851226586
+Support Vector Machine,(i)+(ii),0.8504,0.850426729
+Support Vector Machine,(i)+(iii),0.8508,0.85082477
+Support Vector Machine,(i)+(iv),0.8508,0.850828593
+Support Vector Machine,(ii)+(iii),0.8852,0.885202591
+Support Vector Machine,(ii)+(iv),0.8768,0.876813253
+Support Vector Machine,(iii)+(iv),0.8808,0.880807937
+Support Vector Machine,(i)+(ii)+(iii),0.852,0.852022746
+Support Vector Machine,(i)+(ii)+(iv),0.8516,0.85162844
+Support Vector Machine,(i)+(iii)+(iv),0.852,0.852022746
+Support Vector Machine,(ii)+(iii)+(iv),0.852,0.852022746
+Support Vector Machine,(i)+(ii)+(iii)+(iv),0.8532,0.853220799
+Extreme Gradient Boosting,Count Vector-(i),0.8116,0.811670096
+Extreme Gradient Boosting,WordLevel TF-IDF-(ii),0.8036,0.809270989
+Extreme Gradient Boosting,N-Gram Vectors TF-IDF-(iii),0.7388,0.743905315
+Extreme Gradient Boosting,CharLevel Vectors TF-IDF-(iv),0.8088,0.813588546
+Extreme Gradient Boosting,(i)+(ii),0.8068,0.806859265
+Extreme Gradient Boosting,(i)+(iii),0.8184,0.81851254
+Extreme Gradient Boosting,(i)+(iv),0.8256,0.825615068
+Extreme Gradient Boosting,(ii)+(iii),0.8124,0.812469798
+Extreme Gradient Boosting,(ii)+(iv),0.824,0.824040892
+Extreme Gradient Boosting,(iii)+(iv),0.824,0.823989186
+Extreme Gradient Boosting,(i)+(ii)+(iii),0.8132,0.813251562
+Extreme Gradient Boosting,(i)+(ii)+(iv),0.818,0.818021579
+Extreme Gradient Boosting,(i)+(iii)+(iv),0.826,0.826033326
+Extreme Gradient Boosting,(ii)+(iii)+(iv),0.826,0.826033326
+Extreme Gradient Boosting,(i)+(ii)+(iii)+(iv),0.8212,0.821234246
+Shallow Neural Network,Count Vector-(i),0.8624,0.870812507
+Shallow Neural Network,WordLevel TF-IDF-(ii),0.8632,0.867657247
+Shallow Neural Network,N-Gram Vectors TF-IDF-(iii),0.8308,0.838903428
+Shallow Neural Network,CharLevel Vectors TF-IDF-(iv),0.8176,0.840046597
+Shallow Neural Network,(i)+(ii),0.8712,0.871245756
+Shallow Neural Network,(i)+(iii),0.8748,0.874804908
+Shallow Neural Network,(i)+(iv),0.874,0.874109824
+Shallow Neural Network,(ii)+(iii),0.8892,0.889202501
+Shallow Neural Network,(ii)+(iv),0.878,0.877990727
+Shallow Neural Network,(iii)+(iv),0.8764,0.876437941
+Shallow Neural Network,(i)+(ii)+(iii),0.8772,0.87720277
+Shallow Neural Network,(i)+(ii)+(iv),0.8688,0.868945368
+Shallow Neural Network,(i)+(iii)+(iv),0.8776,0.877749452
+Shallow Neural Network,(ii)+(iii)+(iv),0.8828,0.882796343
+Shallow Neural Network,(i)+(ii)+(iii)+(iv),0.878,0.878198135
+CNN (Transfer Learning),FastText,0.8228,0.822833959
+CNN (Transfer Learning),Glove,0.8092,0.809254536
+CNN (Transfer Learning),Word2Vec,0.836,0.836265454
+RNN_LSTM (Transfer Learning),FastText,0.7976,0.79760622
+RNN_LSTM (Transfer Learning),Glove,0.7884,0.78844865
+RNN_LSTM (Transfer Learning),Word2Vec,0.7716,0.771645653
+RNN_GRU (Transfer Learning),FastText,0.7652,0.772466086
+RNN_GRU (Transfer Learning),Glove,0.7916,0.791645328
+RNN_GRU (Transfer Learning),Word2Vec,0.7804,0.78047527
+Bidirectional_RNN (Transfer Learning),FastText,0.792,0.79248
+Bidirectional_RNN (Transfer Learning),Glove,0.796,0.796745
+Bidirectional_RNN (Transfer Learning),Word2Vec,0.7848,0.7848528
+RCNN (Transfer Learning),FastText,0.8276,0.827658445
+RCNN (Transfer Learning),Glove,0.8004,0.8004758
+RCNN (Transfer Learning),Word2Vec,0.8284,0.8284857

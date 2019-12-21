@@ -1,0 +1,1117 @@
+{
+    "name": "data",
+    "children": [{
+        "name": "Naive Bayes",
+        "children": [{
+            "name": "Count Vector-(i)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "WordLevel TF-IDF-(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "N-Gram Vectors TF-IDF-(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "CharLevel Vectors TF-IDF-(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }]
+    }, {
+        "name": "Linear Classifier",
+        "children": [{
+            "name": "Count Vector-(i)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "WordLevel TF-IDF-(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "N-Gram Vectors TF-IDF-(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "CharLevel Vectors TF-IDF-(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }]
+    }, {
+        "name": "Support Vector Machine",
+        "children": [{
+            "name": "Count Vector-(i)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "WordLevel TF-IDF-(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "N-Gram Vectors TF-IDF-(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "CharLevel Vectors TF-IDF-(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }]
+    }, {
+        "name": "Extreme Gradient Boosting",
+        "children": [{
+            "name": "Count Vector-(i)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "WordLevel TF-IDF-(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "N-Gram Vectors TF-IDF-(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "CharLevel Vectors TF-IDF-(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }]
+    }, {
+        "name": "Shallow Neural Network",
+        "children": [{
+            "name": "Count Vector-(i)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "WordLevel TF-IDF-(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }, {
+            "name": "N-Gram Vectors TF-IDF-(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "CharLevel Vectors TF-IDF-(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        },{
+            "name": "(i)+(ii)+(iii)+(iv)",
+            "children": [{
+                "name": "Accuracy",
+                "size": 3938
+            }, {
+                "name": "F1-score",
+                "size": 3812
+            }, {
+                "name": "Run-time",
+                "size": 6714
+            }]
+        }]
+    }, {
+        "name": "Deep Neural Network",
+        "children": [{
+            "name": "CNN",
+            "children": [{
+                "name": "FastText",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Glove",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Word2Vec",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }]
+        }, {
+            "name": "RNN_LSTM",
+            "children": [{
+                "name": "FastText",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Glove",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Word2Vec",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }]
+        }, {
+            "name": "RNN_GRU",
+            "children": [{
+                "name": "FastText",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Glove",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Word2Vec",
+                "children": [{
+                    "name": "Accuracy",
+                    "size": 3938
+                }, {
+                    "name": "F1-score",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }]
+        }, {
+            "name": "Bidirectional_RNN",
+            "children": [{
+                "name": "FastText",
+                "children": [{
+                    "name": "Accuracy: 0.792",
+                    "size": 3938
+                }, {
+                    "name": "F1-score: 0.79248",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Glove",
+                "children": [{
+                    "name": "Accuracy: 0.796",
+                    "size": 3938
+                }, {
+                    "name": "F1-score: 0.796745",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Word2Vec",
+                "children": [{
+                    "name": "Accuracy: 0.7848",
+                    "size": 3938
+                }, {
+                    "name": "F1-score: 0.7848528",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }]
+        }, {
+            "name": "RCNN",
+            "children": [{
+                "name": "FastText",
+                "children": [{
+                    "name": "Accuracy: 0.8276",
+                    "size": 3938
+                }, {
+                    "name": "F1-score: 0.8276584452",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Glove",
+                "children": [{
+                    "name": "Accuracy: 0.8004",
+                    "size": 3938
+                }, {
+                    "name": "F1-score: 0.8004758",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }, {
+                "name": "Word2Vec",
+                "children": [{
+                    "name": "Accuracy: 0.8284",
+                    "size": 3938
+                }, {
+                    "name": "F1-score:0.8284857",
+                    "size": 3812
+                }, {
+                    "name": "Run-time",
+                    "size": 6714
+                }]
+            }]
+        }]
+    }]
+}

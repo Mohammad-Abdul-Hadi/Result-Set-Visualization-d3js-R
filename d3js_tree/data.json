@@ -1,0 +1,1194 @@
+{
+	"name": "data",
+	"children": [{
+		"name": "Naive Bayes",
+		"children": [{
+			"name": "Count Vector-(i)",
+                	"children": [{
+				"name": "Accuracy: 0.838",
+                		"size": 8380.0
+                	}, {
+				"name": "F1-score: 0.838252476",
+                		"size": 8382.52476
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "WordLevel TF-IDF-(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.8452",
+                		"size": 8452.0
+                	}, {
+				"name": "F1-score: 0.845350771",
+                		"size": 8453.50771
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "N-Gram Vectors TF-IDF-(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8376",
+                		"size": 8376.0
+                	}, {
+				"name": "F1-score: 0.837633281",
+                		"size": 8376.33281
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "CharLevel Vectors TF-IDF-(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.812",
+                		"size": 8120.000000000001
+                	}, {
+				"name": "F1-score: 0.812240539",
+                		"size": 8122.405390000001
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.84",
+                		"size": 8400.0
+                	}, {
+				"name": "F1-score: 0.840234011",
+                		"size": 8402.34011
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8432",
+                		"size": 8432.0
+                	}, {
+				"name": "F1-score: 0.843419558",
+                		"size": 8434.19558
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8388",
+                		"size": 8388.0
+                	}, {
+				"name": "F1-score: 0.838983084",
+                		"size": 8389.83084
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.87",
+                		"size": 8700.0
+                	}, {
+				"name": "F1-score: 0.870002934",
+                		"size": 8700.02934
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8476",
+                		"size": 8476.0
+                	}, {
+				"name": "F1-score: 0.847685077",
+                		"size": 8476.85077
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.852",
+                		"size": 8520.0
+                	}, {
+				"name": "F1-score: 0.851990905",
+                		"size": 8519.90905
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8464",
+                		"size": 8464.0
+                	}, {
+				"name": "F1-score: 0.846570187",
+                		"size": 8465.701869999999
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.84",
+                		"size": 8400.0
+                	}, {
+				"name": "F1-score: 0.840186217",
+                		"size": 8401.86217
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8468",
+                		"size": 8468.0
+                	}, {
+				"name": "F1-score: 0.846957277",
+                		"size": 8469.57277
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8468",
+                		"size": 8468.0
+                	}, {
+				"name": "F1-score: 0.846957277",
+                		"size": 8469.57277
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8488",
+                		"size": 8488.0
+                	}, {
+				"name": "F1-score: 0.84895122",
+                		"size": 8489.5122
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "Linear Classifier",
+		"children": [{
+			"name": "Count Vector-(i)",
+                	"children": [{
+				"name": "Accuracy: 0.8484",
+                		"size": 8484.0
+                	}, {
+				"name": "F1-score: 0.869591987",
+                		"size": 8695.91987
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "WordLevel TF-IDF-(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.86",
+                		"size": 8600.0
+                	}, {
+				"name": "F1-score: 0.87642052",
+                		"size": 8764.2052
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "N-Gram Vectors TF-IDF-(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8344",
+                		"size": 8344.0
+                	}, {
+				"name": "F1-score: 0.836427161",
+                		"size": 8364.27161
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "CharLevel Vectors TF-IDF-(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8368",
+                		"size": 8368.0
+                	}, {
+				"name": "F1-score: 0.841215379",
+                		"size": 8412.15379
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.87",
+                		"size": 8700.0
+                	}, {
+				"name": "F1-score: 0.869992448",
+                		"size": 8699.92448
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.874",
+                		"size": 8740.0
+                	}, {
+				"name": "F1-score: 0.873991229",
+                		"size": 8739.91229
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8692",
+                		"size": 8692.0
+                	}, {
+				"name": "F1-score: 0.869193406",
+                		"size": 8691.93406
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8852",
+                		"size": 8852.0
+                	}, {
+				"name": "F1-score: 0.885216265",
+                		"size": 8852.16265
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8764",
+                		"size": 8764.0
+                	}, {
+				"name": "F1-score: 0.876407063",
+                		"size": 8764.07063
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8788",
+                		"size": 8788.0
+                	}, {
+				"name": "F1-score: 0.878806926",
+                		"size": 8788.06926
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8732",
+                		"size": 8732.0
+                	}, {
+				"name": "F1-score: 0.873191174",
+                		"size": 8731.91174
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8696",
+                		"size": 8696.0
+                	}, {
+				"name": "F1-score: 0.86959399",
+                		"size": 8695.939900000001
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8752",
+                		"size": 8752.0
+                	}, {
+				"name": "F1-score: 0.875194248",
+                		"size": 8751.94248
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8752",
+                		"size": 8752.0
+                	}, {
+				"name": "F1-score: 0.875194248",
+                		"size": 8751.94248
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8744",
+                		"size": 8744.0
+                	}, {
+				"name": "F1-score: 0.874393166",
+                		"size": 8743.93166
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "Support Vector Machine",
+		"children": [{
+			"name": "Count Vector-(i)",
+                	"children": [{
+				"name": "Accuracy: 0.8488",
+                		"size": 8488.0
+                	}, {
+				"name": "F1-score: 0.848823238",
+                		"size": 8488.23238
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "WordLevel TF-IDF-(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.88",
+                		"size": 8800.0
+                	}, {
+				"name": "F1-score: 0.880012909",
+                		"size": 8800.12909
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "N-Gram Vectors TF-IDF-(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.88",
+                		"size": 8800.0
+                	}, {
+				"name": "F1-score: 0.880012909",
+                		"size": 8800.12909
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "CharLevel Vectors TF-IDF-(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8512",
+                		"size": 8512.0
+                	}, {
+				"name": "F1-score: 0.851226586",
+                		"size": 8512.26586
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.8504",
+                		"size": 8504.0
+                	}, {
+				"name": "F1-score: 0.850426729",
+                		"size": 8504.26729
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8508",
+                		"size": 8508.0
+                	}, {
+				"name": "F1-score: 0.85082477",
+                		"size": 8508.2477
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8508",
+                		"size": 8508.0
+                	}, {
+				"name": "F1-score: 0.850828593",
+                		"size": 8508.28593
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8852",
+                		"size": 8852.0
+                	}, {
+				"name": "F1-score: 0.885202591",
+                		"size": 8852.02591
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8768",
+                		"size": 8768.0
+                	}, {
+				"name": "F1-score: 0.876813253",
+                		"size": 8768.13253
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8808",
+                		"size": 8808.0
+                	}, {
+				"name": "F1-score: 0.880807937",
+                		"size": 8808.079370000001
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.852",
+                		"size": 8520.0
+                	}, {
+				"name": "F1-score: 0.852022746",
+                		"size": 8520.22746
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8516",
+                		"size": 8516.0
+                	}, {
+				"name": "F1-score: 0.85162844",
+                		"size": 8516.2844
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.852",
+                		"size": 8520.0
+                	}, {
+				"name": "F1-score: 0.852022746",
+                		"size": 8520.22746
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.852",
+                		"size": 8520.0
+                	}, {
+				"name": "F1-score: 0.852022746",
+                		"size": 8520.22746
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8532",
+                		"size": 8532.0
+                	}, {
+				"name": "F1-score: 0.853220799",
+                		"size": 8532.20799
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "Extreme Gradient Boosting",
+		"children": [{
+			"name": "Count Vector-(i)",
+                	"children": [{
+				"name": "Accuracy: 0.8116",
+                		"size": 8116.0
+                	}, {
+				"name": "F1-score: 0.811670096",
+                		"size": 8116.700959999999
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "WordLevel TF-IDF-(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.8036",
+                		"size": 8036.0
+                	}, {
+				"name": "F1-score: 0.809270989",
+                		"size": 8092.70989
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "N-Gram Vectors TF-IDF-(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.7388",
+                		"size": 7388.0
+                	}, {
+				"name": "F1-score: 0.743905315",
+                		"size": 7439.05315
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "CharLevel Vectors TF-IDF-(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8088",
+                		"size": 8088.0
+                	}, {
+				"name": "F1-score: 0.813588546",
+                		"size": 8135.8854599999995
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.8068",
+                		"size": 8068.0
+                	}, {
+				"name": "F1-score: 0.806859265",
+                		"size": 8068.5926500000005
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8184",
+                		"size": 8184.0
+                	}, {
+				"name": "F1-score: 0.81851254",
+                		"size": 8185.1254
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8256",
+                		"size": 8256.0
+                	}, {
+				"name": "F1-score: 0.825615068",
+                		"size": 8256.150679999999
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8124",
+                		"size": 8124.0
+                	}, {
+				"name": "F1-score: 0.812469798",
+                		"size": 8124.69798
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.824",
+                		"size": 8240.0
+                	}, {
+				"name": "F1-score: 0.824040892",
+                		"size": 8240.40892
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.824",
+                		"size": 8240.0
+                	}, {
+				"name": "F1-score: 0.823989186",
+                		"size": 8239.89186
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8132",
+                		"size": 8132.0
+                	}, {
+				"name": "F1-score: 0.813251562",
+                		"size": 8132.51562
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.818",
+                		"size": 8179.999999999999
+                	}, {
+				"name": "F1-score: 0.818021579",
+                		"size": 8180.21579
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.826",
+                		"size": 8260.0
+                	}, {
+				"name": "F1-score: 0.826033326",
+                		"size": 8260.33326
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.826",
+                		"size": 8260.0
+                	}, {
+				"name": "F1-score: 0.826033326",
+                		"size": 8260.33326
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8212",
+                		"size": 8212.0
+                	}, {
+				"name": "F1-score: 0.821234246",
+                		"size": 8212.34246
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "Shallow Neural Network",
+		"children": [{
+			"name": "Count Vector-(i)",
+                	"children": [{
+				"name": "Accuracy: 0.8624",
+                		"size": 8624.0
+                	}, {
+				"name": "F1-score: 0.870812507",
+                		"size": 8708.12507
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "WordLevel TF-IDF-(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.8632",
+                		"size": 8632.0
+                	}, {
+				"name": "F1-score: 0.867657247",
+                		"size": 8676.572470000001
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "N-Gram Vectors TF-IDF-(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8308",
+                		"size": 8308.0
+                	}, {
+				"name": "F1-score: 0.838903428",
+                		"size": 8389.03428
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "CharLevel Vectors TF-IDF-(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8176",
+                		"size": 8176.0
+                	}, {
+				"name": "F1-score: 0.840046597",
+                		"size": 8400.46597
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)",
+                	"children": [{
+				"name": "Accuracy: 0.8712",
+                		"size": 8712.0
+                	}, {
+				"name": "F1-score: 0.871245756",
+                		"size": 8712.457559999999
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8748",
+                		"size": 8748.0
+                	}, {
+				"name": "F1-score: 0.874804908",
+                		"size": 8748.04908
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.874",
+                		"size": 8740.0
+                	}, {
+				"name": "F1-score: 0.874109824",
+                		"size": 8741.098240000001
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8892",
+                		"size": 8892.0
+                	}, {
+				"name": "F1-score: 0.889202501",
+                		"size": 8892.02501
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.878",
+                		"size": 8780.0
+                	}, {
+				"name": "F1-score: 0.877990727",
+                		"size": 8779.90727
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8764",
+                		"size": 8764.0
+                	}, {
+				"name": "F1-score: 0.876437941",
+                		"size": 8764.379410000001
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)",
+                	"children": [{
+				"name": "Accuracy: 0.8772",
+                		"size": 8772.0
+                	}, {
+				"name": "F1-score: 0.87720277",
+                		"size": 8772.0277
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8688",
+                		"size": 8688.0
+                	}, {
+				"name": "F1-score: 0.868945368",
+                		"size": 8689.45368
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8776",
+                		"size": 8776.0
+                	}, {
+				"name": "F1-score: 0.877749452",
+                		"size": 8777.49452
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.8828",
+                		"size": 8828.0
+                	}, {
+				"name": "F1-score: 0.882796343",
+                		"size": 8827.96343
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "(i)+(ii)+(iii)+(iv)",
+                	"children": [{
+				"name": "Accuracy: 0.878",
+                		"size": 8780.0
+                	}, {
+				"name": "F1-score: 0.878198135",
+                		"size": 8781.98135
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "CNN (Transfer Learning)",
+		"children": [{
+			"name": "FastText",
+                	"children": [{
+				"name": "Accuracy: 0.8228",
+                		"size": 8228.0
+                	}, {
+				"name": "F1-score: 0.822833959",
+                		"size": 8228.33959
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Glove",
+                	"children": [{
+				"name": "Accuracy: 0.8092",
+                		"size": 8092.0
+                	}, {
+				"name": "F1-score: 0.809254536",
+                		"size": 8092.54536
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Word2Vec",
+                	"children": [{
+				"name": "Accuracy: 0.836",
+                		"size": 8360.0
+                	}, {
+				"name": "F1-score: 0.836265454",
+                		"size": 8362.65454
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "RNN_LSTM (Transfer Learning)",
+		"children": [{
+			"name": "FastText",
+                	"children": [{
+				"name": "Accuracy: 0.7976",
+                		"size": 7976.0
+                	}, {
+				"name": "F1-score: 0.79760622",
+                		"size": 7976.0622
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Glove",
+                	"children": [{
+				"name": "Accuracy: 0.7884",
+                		"size": 7884.0
+                	}, {
+				"name": "F1-score: 0.78844865",
+                		"size": 7884.4865
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Word2Vec",
+                	"children": [{
+				"name": "Accuracy: 0.7716",
+                		"size": 7715.999999999999
+                	}, {
+				"name": "F1-score: 0.771645653",
+                		"size": 7716.4565299999995
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "RNN_GRU (Transfer Learning)",
+		"children": [{
+			"name": "FastText",
+                	"children": [{
+				"name": "Accuracy: 0.7652",
+                		"size": 7652.0
+                	}, {
+				"name": "F1-score: 0.772466086",
+                		"size": 7724.66086
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Glove",
+                	"children": [{
+				"name": "Accuracy: 0.7916",
+                		"size": 7916.0
+                	}, {
+				"name": "F1-score: 0.791645328",
+                		"size": 7916.45328
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Word2Vec",
+                	"children": [{
+				"name": "Accuracy: 0.7804",
+                		"size": 7804.0
+                	}, {
+				"name": "F1-score: 0.78047527",
+                		"size": 7804.752700000001
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "Bidirectional_RNN (Transfer Learning)",
+		"children": [{
+			"name": "FastText",
+                	"children": [{
+				"name": "Accuracy: 0.792",
+                		"size": 7920.0
+                	}, {
+				"name": "F1-score: 0.79248",
+                		"size": 7924.799999999999
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Glove",
+                	"children": [{
+				"name": "Accuracy: 0.796",
+                		"size": 7960.0
+                	}, {
+				"name": "F1-score: 0.796745",
+                		"size": 7967.450000000001
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Word2Vec",
+                	"children": [{
+				"name": "Accuracy: 0.7848",
+                		"size": 7848.000000000001
+                	}, {
+				"name": "F1-score: 0.7848528",
+                		"size": 7848.528
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	},{
+		"name": "RCNN (Transfer Learning)",
+		"children": [{
+			"name": "FastText",
+                	"children": [{
+				"name": "Accuracy: 0.8276",
+                		"size": 8276.0
+                	}, {
+				"name": "F1-score: 0.827658445",
+                		"size": 8276.58445
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Glove",
+                	"children": [{
+				"name": "Accuracy: 0.8004",
+                		"size": 8004.0
+                	}, {
+				"name": "F1-score: 0.8004758",
+                		"size": 8004.758
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+			},
+			{
+			"name": "Word2Vec",
+                	"children": [{
+				"name": "Accuracy: 0.8284",
+                		"size": 8284.0
+                	}, {
+				"name": "F1-score: 0.8284857",
+                		"size": 8284.857
+                	}, {
+				"name": "Run-time: 5000 ms",
+                		"size": 5000
+                	}]
+		}]
+	}]
+}
