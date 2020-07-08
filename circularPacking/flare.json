@@ -1,0 +1,110 @@
+{
+    "name": "flare",
+    "children": [
+     {
+      "name": "AOLDA",
+      "children": [
+       {
+        "name": "Charge",
+        "children": [
+         {"name": "charge", "size": 6714},
+         {"name": "power", "size": 3938},
+         {"name": "drain", "size": 3812},
+         {"name": "restart", "size": 743},
+         {"name": "battery", "size": 743}
+        ]
+       },
+       {
+        "name": "Crash",
+        "children": [
+         {"name": "crash", "size": 7840},
+         {"name": "slow", "size": 5914},
+         {"name": "heat", "size": 5731},
+         {"name": "temperature", "size": 3534},
+         {"name": "energy", "size": 3416}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "OBTM",
+      "children": [
+       {
+        "name": "Battery",
+        "children": [
+         {"name": "battery", "size": 8746},
+         {"name": "charge", "size": 2202},
+         {"name": "drain", "size": 2047},
+         {"name": "power", "size": 1983},
+         {"name": "deplete", "size": 1375}
+        ]
+       },
+       {
+        "name": "Heat",
+        "children": [
+         {"name": "heat", "size": 8746},
+         {"name": "cooling", "size": 2202},
+         {"name": "temperature", "size": 2047},
+         {"name": "hot", "size": 1983},
+         {"name": "Restart", "size": 1375}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Rule Based String Matching",
+      "children": [
+       {
+        "name": "Crash",
+        "children": [
+         {"name": "crash", "size": 9800},
+         {"name": "restart", "size": 4294},
+         {"name": "stopped", "size": 2220},
+         {"name": "uninstall", "size": 1314},
+         {"name": "force", "size": 721}
+        ]
+       },
+       {
+        "name": "Battery",
+        "children": [
+         {"name": "battery", "size": 9800},
+         {"name": "charge", "size": 4294},
+         {"name": "drain", "size": 2220},
+         {"name": "leak", "size": 1314},
+         {"name": "power", "size": 721}
+        ]
+       },
+       {
+        "name": "Temperature",
+        "children": [
+         {"name": "temperatuere", "size": 9800},
+         {"name": "hot", "size": 4294},
+         {"name": "heat", "size": 2220},
+         {"name": "cooling", "size": 1314},
+         {"name": "warm", "size": 721}
+        ]
+       },
+       {
+        "name": "Bugs",
+        "children": [
+         {"name": "bug", "size": 9800},
+         {"name": "code", "size": 4294},
+         {"name": "glitch", "size": 2220},
+         {"name": "error", "size": 1314},
+         {"name": "illogical", "size": 721}
+        ]
+       },
+       {
+        "name": "Features",
+        "children": [
+         {"name": "features", "size": 9800},
+         {"name": "need", "size": 4294},
+         {"name": "change", "size": 2220},
+         {"name": "add", "size": 1314},
+         {"name": "necessary", "size": 721}
+        ]
+       }
+      ]
+     }
+    ]
+   }

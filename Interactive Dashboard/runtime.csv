@@ -1,0 +1,91 @@
+Model,Feature,RunTime
+Extreme Gradient Boosting,N-Gram Vectors TF-IDF-(iii),14.83
+Extreme Gradient Boosting,WordLevel TF-IDF-(ii),14.81
+Extreme Gradient Boosting,(i)+(ii),14.71
+Extreme Gradient Boosting,CharLevel Vectors TF-IDF-(iv),14.75
+RNN_GRU (Transfer Learning),Word2Vec,36.17
+RNN_LSTM (Transfer Learning),Word2Vec,42.16
+Extreme Gradient Boosting,Count Vector-(i),14.85
+Naive Bayes,CharLevel Vectors TF-IDF-(iv),4.34
+Extreme Gradient Boosting,(ii)+(iii),14.79
+Extreme Gradient Boosting,(i)+(ii)+(iii),15.31
+Shallow Neural Network,CharLevel Vectors TF-IDF-(iv),19.29
+Extreme Gradient Boosting,(i)+(ii)+(iv),15.35
+Extreme Gradient Boosting,(i)+(iii),14.46
+Extreme Gradient Boosting,(i)+(ii)+(iii)+(iv),15.51
+Extreme Gradient Boosting,(ii)+(iv),14.33
+Extreme Gradient Boosting,(iii)+(iv),14.39
+Extreme Gradient Boosting,(i)+(iv),14.73
+Extreme Gradient Boosting,(i)+(iii)+(iv),15.58
+Extreme Gradient Boosting,(ii)+(iii)+(iv),15.59
+Shallow Neural Network,N-Gram Vectors TF-IDF-(iii),19.25
+Linear Classifier,N-Gram Vectors TF-IDF-(iii),3.58
+Linear Classifier,CharLevel Vectors TF-IDF-(iv),3.51
+Naive Bayes,N-Gram Vectors TF-IDF-(iii),4.22
+Naive Bayes,Count Vector-(i),4.32
+Naive Bayes,(i)+(iv),4.26
+Naive Bayes,(i)+(ii),4.36
+Naive Bayes,(i)+(ii)+(iv),5.83
+RNN_GRU (Transfer Learning),FastText,36.19
+Naive Bayes,(i)+(iii),4.25
+Naive Bayes,WordLevel TF-IDF-(ii),4.21
+Naive Bayes,(i)+(ii)+(iii),5.91
+Naive Bayes,(i)+(iii)+(iv),5.46
+Naive Bayes,(ii)+(iii)+(iv),5.88
+Naive Bayes,(ii)+(iv),4.88
+Linear Classifier,Count Vector-(i),3.56
+Naive Bayes,(i)+(ii)+(iii)+(iv),6.24
+Support Vector Machine,Count Vector-(i),18.12
+Bidirectional_RNN (Transfer Learning),Word2Vec,41.19
+RNN_LSTM (Transfer Learning),Glove,42.49
+Support Vector Machine,(i)+(ii),18.65
+Support Vector Machine,(i)+(iii),18.28
+Support Vector Machine,(i)+(iv),18.31
+Support Vector Machine,CharLevel Vectors TF-IDF-(iv),18.32
+Support Vector Machine,(i)+(ii)+(iv),19.18
+Naive Bayes,(iii)+(iv),4.18
+Support Vector Machine,(i)+(ii)+(iii),19.54
+Support Vector Machine,(i)+(iii)+(iv),19.15
+Support Vector Machine,(ii)+(iii)+(iv),19.17
+Support Vector Machine,(i)+(ii)+(iii)+(iv),20.5
+Bidirectional_RNN (Transfer Learning),FastText,41.54
+Linear Classifier,WordLevel TF-IDF-(ii),3.6
+RNN_GRU (Transfer Learning),Glove,36.28
+Shallow Neural Network,Count Vector-(i),19.21
+Shallow Neural Network,WordLevel TF-IDF-(ii),19.2
+Shallow Neural Network,(i)+(ii)+(iv),20.76
+Linear Classifier,(i)+(iv),3.44
+Linear Classifier,(i)+(ii)+(iv),4.86
+Bidirectional_RNN (Transfer Learning),Glove,41.14
+Linear Classifier,(i)+(ii),3.78
+Naive Bayes,(ii)+(iii),4.22
+Shallow Neural Network,(i)+(ii),19.22
+Linear Classifier,(i)+(ii)+(iii),4.14
+Linear Classifier,(i)+(iii),3.52
+Shallow Neural Network,(i)+(iv),19.23
+Linear Classifier,(i)+(ii)+(iii)+(iv),5.89
+Shallow Neural Network,(i)+(iii),19.21
+Linear Classifier,(i)+(iii)+(iv),4.25
+Linear Classifier,(ii)+(iii)+(iv),4.36
+Linear Classifier,(ii)+(iv),3.79
+Shallow Neural Network,(iii)+(iv),19.72
+Support Vector Machine,(ii)+(iv),18.38
+Shallow Neural Network,(i)+(ii)+(iii),20.75
+Shallow Neural Network,(i)+(iii)+(iv),20.44
+Shallow Neural Network,(i)+(ii)+(iii)+(iv),21.85
+Shallow Neural Network,(ii)+(iv),19.25
+Linear Classifier,(iii)+(iv),3.79
+Support Vector Machine,WordLevel TF-IDF-(ii),18.32
+Support Vector Machine,N-Gram Vectors TF-IDF-(iii),18.48
+Support Vector Machine,(iii)+(iv),18.43
+Shallow Neural Network,(ii)+(iii)+(iv),19.17
+Linear Classifier,(ii)+(iii),3.52
+Support Vector Machine,(ii)+(iii),18.27
+Shallow Neural Network,(ii)+(iii),19.29
+CNN (Transfer Learning),Word2Vec,35.81
+RNN_LSTM (Transfer Learning),FastText,42.38
+RCNN (Transfer Learning),FastText,37.85
+RCNN (Transfer Learning),Glove,37.66
+CNN (Transfer Learning),Glove,35.23
+RCNN (Transfer Learning),Word2Vec,37.25
+CNN (Transfer Learning),FastText,35.28
